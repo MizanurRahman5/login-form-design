@@ -1,0 +1,18 @@
+.Login-form{
+    width: 300px;
+    margin: auto;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+h2{
+    color: #3C86E7;
+}
+body{
+    background-color: #3C86E7;
+}
+input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #3C86E7;
+}
